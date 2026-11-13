@@ -37,7 +37,7 @@ J'ai travaillé sur des projets de gestion foncière, de transport et logistique
 
 ## Applications professionnelles
 
-Réalisées pour des entreprises et organisations au Burkina Faso (code privé) :
+Réalisées pour des entreprises et organisations au Burkina Faso :
 
 - **Gestion foncière et immobilière** : lotissements, ventes, paiements échelonnés, attestations signées électroniquement et vérifiables par QR code.
 - **Transport et logistique** : missions suivies sur carte, preuves photo depuis le terrain, bons et factures, véhicules, salaires et trésorerie.
